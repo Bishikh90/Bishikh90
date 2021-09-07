@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Bishikh Pal👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
+
+## I'm a Full stack Developer, Technology enthusiast, Amateur Data Scientist and Great Cook!!!
 
 <!--
 **Bishikh90/Bishikh90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
