@@ -1,3 +1,9 @@
+<h2>नमस्ते (Namaste)🙏🏻, I'm Bishikh Pal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Software Engineer at <a href="https://www.siemensgamesa.com/en-int">Siemens-Gamesa</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
 ### Hi there, I'm Bishikh Pal👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=ereshzealous&color=yellow)</div>
 
 ## I'm a Full stack Developer, Technology enthusiast, Amateur Data Scientist and Great Cook!!!
